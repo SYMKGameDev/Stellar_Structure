@@ -1,5 +1,5 @@
 # Stellar_Structure
-Models the stellar main sequence using a set of 5 coupled differential equations, which can be modified to account for the presence of magnetic fields. Used for the final project for PHYS 375 - Stars (University of Waterloo, Waterloo, Ontario, Canada).
+Models the stellar main sequence using a set of 5 coupled differential equations, which can be modified to account for the presence of magnetic fields. 
 
 The main file is split into two analysis parts:
 1. Creating a main sequence with or without modifications
